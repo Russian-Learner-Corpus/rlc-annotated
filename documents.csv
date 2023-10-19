@@ -130,7 +130,7 @@ id,subcorpus,native,language_background,level,words,sentences
 322,RULEC,eng,FL,IM,56,3
 324,RULEC,eng,FL,AM,593,25
 325,RULEC,eng,HL,IM,216,11
-327,RULEC,eng,FL,AM,691,36
+327,RULEC,eng,FL,AM,694,36
 328,RULEC,eng,HL,AL,164,11
 331,RULEC,eng,HL,AM,53,4
 334,RULEC,eng,HL,AM,58,3
@@ -199,7 +199,7 @@ id,subcorpus,native,language_background,level,words,sentences
 718,RULEC,eng,HL,AL,26,2
 725,RULEC,eng,HL,AL,42,5
 732,RULEC,eng,FL,AM,183,8
-941,RULEC,eng,HL,IH,167,10
+941,RULEC,eng,HL,IH,168,10
 947,RULEC,eng,FL,IM,56,9
 948,RULEC,eng,FL,AL,312,16
 949,RULEC,eng,HL,IH,102,6
@@ -279,7 +279,7 @@ id,subcorpus,native,language_background,level,words,sentences
 1079,RULEC,,,,43,1
 1080,RULEC,eng,HL,IM,123,8
 1081,RULEC,eng,HL,IH,99,5
-1082,RULEC,eng,HL,IM,218,26
+1082,RULEC,eng,HL,IM,236,26
 1084,RULEC,eng,FL,AM,298,17
 1085,RULEC,eng,HL,AM,39,2
 1087,RULEC,eng,FL,AL,355,26
@@ -309,7 +309,7 @@ id,subcorpus,native,language_background,level,words,sentences
 1114,RULEC,eng,FL,AL,174,9
 1116,RULEC,eng,HL,IH,132,6
 1117,RULEC,eng,HL,AM,27,2
-1118,RULEC,eng,FL,AM,120,11
+1118,RULEC,eng,FL,AM,121,11
 1119,RULEC,eng,FL,AL,1384,74
 1120,RULEC,eng,HL,IM,94,5
 1121,RULEC,eng,HL,AL,46,3
@@ -323,14 +323,14 @@ id,subcorpus,native,language_background,level,words,sentences
 1129,RULEC,eng,HL,AL,123,10
 1130,RULEC,eng,HL,AL,106,6
 1131,RULEC,eng,FL,AL,232,10
-1132,RULEC,eng,FL,AM,445,40
+1132,RULEC,eng,FL,AM,446,40
 1133,RULEC,eng,FL,IH,291,17
 1134,RULEC,eng,HL,AL,593,44
 1137,RULEC,eng,HL,AL,74,4
 1138,RULEC,eng,HL,IH,40,2
 1139,RULEC,eng,FL,AL,44,2
 1140,RULEC,eng,FL,IM,21,1
-1141,RULEC,eng,HL,AL,1736,85
+1141,RULEC,eng,HL,AL,1738,85
 1142,RULEC,eng,FL,AL,99,1
 1143,RULEC,eng,HL,AL,67,5
 1144,RULEC,eng,FL,IH,54,3
@@ -392,7 +392,7 @@ id,subcorpus,native,language_background,level,words,sentences
 1209,RULEC,eng,FL,IM,1443,88
 1210,RULEC,eng,FL,AL,243,14
 1211,RULEC,eng,FL,IH,201,10
-1212,RULEC,eng,FL,AL,312,16
+1212,RULEC,eng,FL,AL,313,16
 1213,RULEC,eng,FL,IM,363,28
 1214,RULEC,eng,HL,AM,368,18
 1215,RULEC,eng,HL,AL,221,14
@@ -439,8 +439,8 @@ id,subcorpus,native,language_background,level,words,sentences
 1263,RULEC,eng,FL,IM,237,15
 1264,RULEC,eng,FL,IH,114,4
 1266,RULEC,eng,FL,AM,131,28
-1267,RULEC,eng,FL,IH,2298,115
-1268,RULEC,eng,FL,AL,185,11
+1267,RULEC,eng,FL,IH,2299,115
+1268,RULEC,eng,FL,AL,186,11
 1269,RULEC,eng,FL,AL,340,23
 1270,RULEC,eng,HL,IH,52,2
 1271,RULEC,eng,FL,IH,109,7
@@ -456,7 +456,7 @@ id,subcorpus,native,language_background,level,words,sentences
 1285,RULEC,eng,FL,IH,144,7
 1287,RULEC,eng,FL,IM,58,4
 1288,RULEC,eng,HL,AM,225,4
-1289,RULEC,eng,FL,AL,569,38
+1289,RULEC,eng,FL,AL,570,38
 1290,RULEC,eng,FL,IM,123,6
 1291,RULEC,eng,HL,AL,36,3
 1292,RULEC,eng,FL,IM,35,2
@@ -478,7 +478,7 @@ id,subcorpus,native,language_background,level,words,sentences
 1313,RULEC,eng,HL,AL,11,1
 1314,RULEC,eng,HL,IH,684,44
 1315,RULEC,eng,FL,AL,9,1
-1316,RULEC,eng,FL,AL,1979,133
+1316,RULEC,eng,FL,AL,1980,133
 1317,RULEC,eng,FL,AL,68,5
 1319,RULEC,eng,FL,AL,33,1
 1320,RULEC,eng,FL,IH,339,20
@@ -537,7 +537,7 @@ id,subcorpus,native,language_background,level,words,sentences
 1388,RULEC,,,,182,7
 1389,RULEC,eng,FL,AL,87,5
 1390,RULEC,eng,HL,AM,234,11
-1391,RULEC,eng,FL,AL,1220,52
+1391,RULEC,eng,FL,AL,1221,52
 1392,RULEC,eng,FL,AM,71,2
 1393,RULEC,eng,FL,AL,175,14
 1395,RULEC,eng,FL,AL,93,8
@@ -565,7 +565,7 @@ id,subcorpus,native,language_background,level,words,sentences
 1420,RULEC,eng,HL,AM,294,15
 1422,RULEC,eng,HL,AM,255,13
 1423,RULEC,eng,FL,IH,157,13
-1424,RULEC,eng,HL,AL,289,18
+1424,RULEC,eng,HL,AL,290,18
 1425,RULEC,eng,HL,AM,217,10
 1426,RULEC,eng,FL,AL,73,3
 1427,RULEC,eng,FL,IM,239,11
@@ -1186,7 +1186,7 @@ id,subcorpus,native,language_background,level,words,sentences
 9242,HSE,eng,FL,IM,765,49
 9243,HSE,ita,FL,AM,552,30
 9244,HSE,kor,FL,IM,446,29
-9245,HSE,kor,FL,IL,270,22
+9245,HSE,kor,FL,IL,272,22
 9248,HSE,ger,FL,AM,396,25
 9249,HSE,eng,FL,IH,374,23
 9251,HSE,eng,FL,IH,377,18
