@@ -14,7 +14,7 @@ A partial dump of the  [Russian Learner Corpus](http://web-corpora.net/RLC) (RLC
 - **sentences:** The number of sentences in the document.
 
 `sentences.csv`
-- **id:** The sentence ID of the form <document id>XXX, where XXX is the number of the sentence within the document.
+- **id:** The sentence ID of the form **document_id**XXX, where XXX is the three-digit number of the sentence within the document.
 - **document_id:** The ID of the document containing the sentence.
 - **sentence_index:** The number of the sentence within the document.
 - **text:** The original sentence.
