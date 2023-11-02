@@ -20,3 +20,13 @@ A partial dump of the  [Russian Learner Corpus](http://web-corpora.net/RLC) (RLC
 - **text:** The original sentence.
 - **corrected:** The corrected sentence.
 - **status:** ``needs correction'' if it is known that the corrected sentence is not quite right; empty, otherwise.
+
+`annotations.csv`
+- **id:** The error annotation ID.
+- **sentence_id:** The ID of the sentence to which the annotation applies.
+- **tag:** The error type.
+- **quote:** The fragment containg an error.
+- **correction:** The corrected fragment.
+- **start:** The start offset of the original fragment within the sentence (indices refer to spaces between tokens; the start of the sentence has zero index).
+- **end:** The end offset of the original fragment within the sentence (indices refer to spaces between tokens; the start of the sentence has zero index).
+- **annotation_source:** ``manual'' if annotation is entered by a person; ``rlc-errant'' if the entire sentence was corrected by a person, but the edits were autmatically extracted and annotated by RLC-ERRANT.
