@@ -15,3 +15,8 @@ A partial dump of the  [Russian Learner Corpus](http://web-corpora.net/RLC) (RLC
 
 `sentences.csv`
 - **id:** The sentence ID of the form <document id>XXX, where XXX is the number of the sentence within the document.
+- **document_id:** The ID of the document containing the sentence.
+- **sentence_index:** The number of the sentence within the document.
+- **text:** The original sentence.
+- **corrected:** The corrected sentence.
+- **status:** ``needs correction'' if it is known that the corrected sentence is not quite right; empty, otherwise.
