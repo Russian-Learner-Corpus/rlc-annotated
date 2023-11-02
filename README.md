@@ -19,7 +19,7 @@ A partial dump of the  [Russian Learner Corpus](http://web-corpora.net/RLC) (RLC
 - **sentence_index:** The number of the sentence within the document.
 - **text:** The original sentence.
 - **corrected:** The corrected sentence.
-- **status:** ``needs correction'' if it is known that the corrected sentence is not quite right; empty, otherwise.
+- **status:** _needs correction_ if it is known that the corrected sentence is not quite right; empty, otherwise.
 
 `annotations.csv`
 - **id:** The error annotation ID.
@@ -29,4 +29,4 @@ A partial dump of the  [Russian Learner Corpus](http://web-corpora.net/RLC) (RLC
 - **correction:** The corrected fragment.
 - **start:** The start offset of the original fragment within the sentence (indices refer to spaces between tokens; the start of the sentence has zero index).
 - **end:** The end offset of the original fragment within the sentence (indices refer to spaces between tokens; the start of the sentence has zero index).
-- **annotation_source:** ``manual'' if annotation is entered by a person; ``rlc-errant'' if the entire sentence was corrected by a person, but the edits were autmatically extracted and annotated by RLC-ERRANT.
+- **annotation_source:** _manual_ if annotation is entered by a person; _rlc-errant_ if the entire sentence was corrected by a person, but the edits were autmatically extracted and annotated by RLC-ERRANT.
