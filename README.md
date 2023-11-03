@@ -27,7 +27,7 @@ A partial dump of the  [Russian Learner Corpus](http://web-corpora.net/RLC) (RLC
 - **correction:** The corrected fragment.
 - **start:** The start offset of the original fragment within the sentence (indices refer to spaces between tokens; the start of the sentence has zero index).
 - **end:** The end offset of the original fragment within the sentence (indices refer to spaces between tokens; the start of the sentence has zero index).
-- **annotation_source:** _manual_ if annotation is entered by a person; _rlc-errant_ if the entire sentence was corrected by a person, but the edits were autmatically extracted and annotated by RLC-ERRANT.
+- **annotation_source:** _manual_ if annotation is entered by a person; _rlc-errant_ if the entire sentence was corrected by a person, but the edits were automatically extracted and annotated by RLC-ERRANT.
 
 `rlc_test.csv` contains a small separate dataset consisting of individual sentences and their annotated corrections. Each line corresponds to a single edit.
 - **text_orig:** The original sentence.
