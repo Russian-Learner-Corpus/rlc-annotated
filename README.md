@@ -1,4 +1,4 @@
-# Annotated RLC dataset
+# RLC-GEC
 
 A partial dump of the  [Russian Learner Corpus](http://web-corpora.net/RLC) (RLC) consisting of corrected and annotated texts written by Russian learners
 
